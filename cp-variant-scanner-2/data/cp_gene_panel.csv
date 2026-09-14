@@ -1,0 +1,9 @@
+gene,chrom,start,end,associated_condition
+COL4A1,13,110800000,110960000,Porencephaly / small-vessel brain disease (CP-mimicking)
+COL4A2,13,110800000,110900000,Porencephaly / small-vessel brain disease (CP-mimicking)
+TUBA1A,12,49575000,49585000,Cortical malformation
+KIF1A,2,241650000,241700000,Hereditary spastic paraplegia (CP-mimicking)
+ATL1,14,50190000,50210000,Hereditary spastic paraplegia (CP-mimicking)
+SPAST,2,32270000,32320000,Hereditary spastic paraplegia (CP-mimicking)
+GNAO1,16,56360000,56390000,Movement disorder (CP-mimicking)
+GCH1,14,55320000,55330000,Dopa-responsive dystonia (treatable CP-mimicking)
